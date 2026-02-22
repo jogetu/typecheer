@@ -1,0 +1,18 @@
+﻿{
+  "character": "初期女の子",
+  "current_character_id": "char-initial-girl",
+  "characters": [
+    {
+      "id": "char-initial-girl",
+      "name": "初期女の子",
+      "idle_image_path": "taiki.png",
+      "left_image_path": "left.png",
+      "right_image_path": "right.png"
+    }
+  ],
+  "x": 1200,
+  "y": 520,
+  "scale": 0.35,
+  "start_hand": "left",
+  "window_snap_enabled": true
+}
