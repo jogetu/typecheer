@@ -1,4 +1,4 @@
-﻿{
+{
   "character": "初期女の子",
   "current_character_id": "char-initial-girl",
   "characters": [
@@ -10,8 +10,8 @@
       "right_image_path": "right.png"
     }
   ],
-  "x": 1200,
-  "y": 520,
+  "x": 587,
+  "y": -125,
   "scale": 0.35,
   "start_hand": "left",
   "window_snap_enabled": true
